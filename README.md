@@ -9,18 +9,10 @@ A full-stack MERN project to add, track, and manage movies you want to watch.
 
 
 OUTPUT:
-🏠 Home Page
-
-Displays all movies in your watchlist.
-
-
-
 ➕ Add Movie Page
 Add new movies to your watchlist with details like title, year, and language.
 
 <img width="1911" height="937" alt="image" src="https://github.com/user-attachments/assets/acef7f30-8816-4226-b3db-b78df16a1ef9" />
-
-
 
 
 
@@ -41,17 +33,3 @@ Track watched movies easily.
 
 <img width="1571" height="626" alt="image" src="https://github.com/user-attachments/assets/a11d1145-5a94-4c81-a3f8-f41c4429f205" />
 
-
-✨ Features
-🎬 Add movies to watchlist
-✔️ Mark movies as watched
-🗑️ Delete movies
-📂 Full MERN stack integration
-⚡ Fast Vite frontend
-🗄️ MongoDB database storage
-🛠️ Tech Stack
-React (Frontend)
-Node.js + Express (Backend)
-MongoDB (Database)
-Vite (Build tool)
-Axios (API calls)
