@@ -7,14 +7,9 @@ STRUCTURE OF THE PROJECT:
 
 OUTPUT:
 
+<img width="1916" height="954" alt="image" src="https://github.com/user-attachments/assets/40ebbf79-02bf-4c1b-8fc1-4c6d71571eea" />
 
 
-<img width="500" height="500" alt="Screenshot 2026-02-09 203130" src="https://github.com/user-attachments/assets/a6e30b15-3c22-42ad-ad2a-024b80f86111" />
+<img width="1915" height="928" alt="image" src="https://github.com/user-attachments/assets/3c6704be-b057-4235-b143-033f7be79d6c" />
 
-
-
-<img width="500" height="500" alt="Screenshot 2026-02-09 203046" src="https://github.com/user-attachments/assets/b1616cf1-9926-4b71-9ce7-1c16a63f4964" />
-
-
-
-<img width="500" height="500"  alt="Screenshot 2026-02-09 203228" src="https://github.com/user-attachments/assets/18ea857c-adc9-457a-91a5-5df1cb4dfd97" />
+<img width="1571" height="894" alt="image" src="https://github.com/user-attachments/assets/d2a91134-6ab9-410b-84d8-3bfbaba1b173" />
